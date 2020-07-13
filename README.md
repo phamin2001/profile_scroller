@@ -1,1 +1,5 @@
-# profile_scroller
+# Profile Scroller
+
+## Using:
+* Bootstrap
+* Iterators and Generators
